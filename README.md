@@ -479,6 +479,4 @@ Possible improvements include:
 * Cloud deployment
 * Comprehensive unit and integration testing
 
-##  License
 
-Add your preferred license before publishing the repository.
