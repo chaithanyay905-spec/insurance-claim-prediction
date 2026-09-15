@@ -1,0 +1,6 @@
+{
+  "name": "Insurance Claim Prediction",
+  "description": "Machine learning analytics and claim likelihood prediction platform comparing Logistic Regression and Random Forest models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
